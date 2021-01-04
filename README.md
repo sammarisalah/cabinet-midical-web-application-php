@@ -4,15 +4,19 @@ this project is a web application that can add clients and delete them
 you can accesse as secretary or a doctor 
 
 1. first you must create a data base : 
+
 --1--
-CREATE DATABASE gestion_cabinet;
+
+1. CREATE DATABASE gestion_cabinet;
+
 --2--
-CREATE TABLE doctor 
+
+1. CREATE TABLE doctor 
 (
-id INT(5) PRIMARYKEY NOT NULL AUTO_INCREMENT   ,
-name VARCHAR2(255) ,
-email VARCHAR2(255),
-password VARCHAR2(255)
+- id INT(5) PRIMARYKEY NOT NULL AUTO_INCREMENT   ,
+- name VARCHAR2(255) ,
+- email VARCHAR2(255),
+- password VARCHAR2(255)
 )
 
 --3--
