@@ -1,3 +1,5 @@
+![pexels-rfstudio-3825539](https://user-images.githubusercontent.com/73725029/103531123-fea9ed00-4e88-11eb-880c-b17d137d8bf3.jpg)
+
 # cabinet-midical-web-application-php
 A medical practice is a place where a liberal profession related to health care is exercised (examples: specialist doctor, dental surgeon, pulmonologist, radiologist, etc.) This doctor will offer in his premises consultations related to his specialty.
 this project is a web application that can add clients and delete them 
